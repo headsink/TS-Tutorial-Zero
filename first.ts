@@ -14,3 +14,4 @@ npm install -g ts-node
 # Depending on configuration, you may also need these
 npm install -D tslib @types/node
 */
+ let username:string = "Test this"; // errors in the Problem Tab of VSCode, if value other than string.
