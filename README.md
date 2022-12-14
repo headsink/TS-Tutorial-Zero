@@ -3,13 +3,13 @@
 Add typescript
 
 ```
-npm add typescript -D
+npm install typescript -D
 ```
 
 Then add a wrapped around node for typescript file, ts-node...
 
 ```
-npm ts-node -D
+npm install ts-node -D
 ```
 
 Then initialize typescript configuration file:
